@@ -26,6 +26,4 @@ I believe programming is not only code — it is power, a force to shape the wor
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atskureli1&show_icons=true&theme=radical)
 
 </div>
----
-
 ### ✊ Workers of Code, Unite!
