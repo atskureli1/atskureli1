@@ -1,5 +1,5 @@
 <div align="center">
-# Welcome, Comrade!
+Welcome Comrade!
 
 **Front-End Developer | SA-MP Pawno Developer**  
 _Coding for the People, Sharing with the People_
