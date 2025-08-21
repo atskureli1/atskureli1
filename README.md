@@ -4,12 +4,6 @@
 📂 _Coding for the People, Sharing with the People_
 
 ---
-
-## 📖 About Me
-Greetings, Comrade!  
-I am a developer fighting bugs on the digital frontlines and building a brighter future in code.  
-My battlefields are **Front-End Development** and **SA-MP Pawno scripting**.  
-
 As the old posters once declared:  
 > *“Code is Power — Open Source is Freedom!”*
 
