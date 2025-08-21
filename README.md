@@ -6,7 +6,7 @@ _Coding for the People, Sharing with the People_
 
 ---
 As the old posters once declared:  
-*“Code is Power — Open Source is Freedom22!”*
+*“Code is Power — Open Source is Freedom!”*
 
 ---
 
