@@ -1,6 +1,6 @@
 <div align="center">
 Welcome Comrade!
-<img src="https://github.com/atskureli1/atskureli1/blob/main/ussr.gif?raw=true" alt="Coding Comrade" />
+
 **Front-End Developer | SA-MP Pawno Developer**  
 _Coding for the People, Sharing with the People_
 
