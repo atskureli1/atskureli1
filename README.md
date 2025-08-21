@@ -10,7 +10,6 @@ As the old posters once declared:
 
 ---
 
-##  Technologies I Use
   **Front-End**: HTML, CSS, JavaScript, React  
   **Pawno (SA-MP Scripting)**  
   **Git & GitHub** – Sharing code with the people  
