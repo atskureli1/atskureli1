@@ -11,9 +11,9 @@ As the old posters once declared:
 ---
 
 ##  Technologies I Use
-- **Front-End**: HTML, CSS, JavaScript, React  
--  **Pawno (SA-MP Scripting)**  
--  **Git & GitHub** – Sharing code with the people  
+  **Front-End**: HTML, CSS, JavaScript, React  
+  **Pawno (SA-MP Scripting)**  
+  **Git & GitHub** – Sharing code with the people  
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atskureli1&show_icons=true&theme=radical)
