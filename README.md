@@ -33,11 +33,4 @@ I believe programming is not only code — it is power, a force to shape the wor
 
 ---
 
-## 📫 Contact
-If you wish to connect:  
-- 💼 GitHub: [YOUR GITHUB LINK]  
-- ✉️ Email: _[your.email@example.com]_  
-
----
-
 ### ✊ Workers of Code, Unite!
