@@ -27,9 +27,11 @@ I believe programming is not only code — it is power, a force to shape the wor
 🛠 My mission is to build open-source projects, share knowledge, and create tools that empower everyone.  
 
 ---
+<div align="center">
 
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atskureli1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
+</div>
 ---
 
 ### ✊ Workers of Code, Unite!
